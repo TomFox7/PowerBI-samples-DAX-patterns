@@ -1,6 +1,6 @@
 # PowerBI-samples-DAX-patterns
  
-Work-in-progress here: <https://github.com/TomFox7/PowerBI-samples-DAX-patterns/>
+PBIX files and work-in-progress here: <https://github.com/TomFox7/PowerBI-samples-DAX-patterns/>
 
 - Basket Analysis	<https://www.daxpatterns.com/basket-analysis/>
 - Survey	<https://www.daxpatterns.com/survey/>
