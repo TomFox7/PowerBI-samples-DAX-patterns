@@ -27,7 +27,8 @@ PBIX files and work-in-progress here: <https://github.com/TomFox7/PowerBI-sample
     <iframe title="ParameterTable-multiple-parameters" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiYTAzNzk3NTAtZjY3Zi00OTMwLTg4NjYtYzdiOTgwN2ViYjczIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
     
   - Cascading parameters
-  
+    <iframe title="ParameterTable-multiple-parameters" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiYTAzNzk3NTAtZjY3Zi00OTMwLTg4NjYtYzdiOTgwN2ViYjczIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    
   - Limit TopN list
     <iframe title="ParameterTable-multiple-parameters" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzNGJjMGYtNTU0Ni00N2ZiLWI2MjItMjgzMTQ4YTlkOTc3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
   
