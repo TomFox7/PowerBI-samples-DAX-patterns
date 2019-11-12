@@ -2,6 +2,9 @@
  
 PBIX files and work-in-progress here: <https://github.com/TomFox7/PowerBI-samples-DAX-patterns/>
 
+Use cases of DAX patterns:
+![Use cases of DAX patterns]((https://tomfox7.github.io/PowerBI-samples-DAX-patterns/images/DAX_patterns_UseCases.png)
+
 - Basket Analysis	<https://www.daxpatterns.com/basket-analysis/>
 - Survey	<https://www.daxpatterns.com/survey/>
 - Time Patterns	<https://www.daxpatterns.com/time-patterns/>
