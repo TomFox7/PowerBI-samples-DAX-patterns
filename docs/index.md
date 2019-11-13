@@ -2,9 +2,15 @@
  
 PBIX files and work-in-progress here: <https://github.com/TomFox7/PowerBI-samples-DAX-patterns/>
 
-## Use cases of DAX patterns:
+## Data Models and Use Cases of DAX patterns:
 
-![Use cases of DAX patterns](https://tomfox7.github.io/PowerBI-samples-DAX-patterns/images/DAX_patterns_UseCases.png)
+The ideal Data Models for Power BI and DAX patterns are closely related.  DAX formulae are the simplest to author and easiest to understand when the data has been shaped into the ideal data model.
+
+![Use cases of DAX patterns](https://tomfox7.github.io/PowerBI-samples-DAX-patterns/images/DAX_Patterns&Data_Models.png)
+
+Acknowledgment of main sources:
+- [Analyzing Data with Power BI and Power Pivot for Excel, 2017, book by Alberto Ferrari and Marco Russo](https://www.sqlbi.com/books/analyzing-data-with-microsoft-power-bi-and-power-pivot-for-excel/)
+- [Dax Patterns 2015, book by Alberto Ferrari and Marco Russo and website](https://www.daxpatterns.com/patterns/)
 
 ## Descriptions of DAX patterns
   <style>
@@ -18,16 +24,16 @@ PBIX files and work-in-progress here: <https://github.com/TomFox7/PowerBI-sample
 - Time Patterns	<https://www.daxpatterns.com/time-patterns/>
 - Parameter Table	<https://www.daxpatterns.com/parameter-table/>
   - Basic pattern
-    <iframe title="ParameterTable-basic-pattern" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiODUxMDE4ZDgtYTczZS00NDM5LWI3YzUtMGY2ZjlmZGQ2ZWM2IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    <iframe title="ParameterTable-basic-pattern" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r="  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
 
   - Single parameter
-    <iframe title="ParameterTable-single-parameter" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiNjI2MmFkNGMtODUxZC00OTMzLTlhNDUtYjMxNDI0ODI1ZmYyIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    <iframe title="ParameterTable-single-parameter" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r="  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
     
   - Multiple parameters
-    <iframe title="ParameterTable-multiple-parameters" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiYTAzNzk3NTAtZjY3Zi00OTMwLTg4NjYtYzdiOTgwN2ViYjczIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    <iframe title="ParameterTable-multiple-parameters" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r="  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
     
   - Cascading parameters
-    <iframe title="ParameterTable-multiple-parameters" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiYTAzNzk3NTAtZjY3Zi00OTMwLTg4NjYtYzdiOTgwN2ViYjczIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    
     
   - Limit TopN list
     <iframe title="ParameterTable-multiple-parameters" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzNGJjMGYtNTU0Ni00N2ZiLWI2MjItMjgzMTQ4YTlkOTc3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
