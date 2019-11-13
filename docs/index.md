@@ -30,9 +30,11 @@ Acknowledgment of main sources:
   
     <iframe id="iframe-pt1" title="ParameterTable-basic-pattern" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiODUxMDE4ZDgtYTczZS00NDM5LWI3YzUtMGY2ZjlmZGQ2ZWM2IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
+    
   - Single parameter
   
     <iframe id="iframe-pt2" title="ParameterTable-single-parameter" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNjI2MmFkNGMtODUxZC00OTMzLTlhNDUtYjMxNDI0ODI1ZmYyIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    
 
   - Multiple parameters
   
@@ -45,6 +47,7 @@ Acknowledgment of main sources:
   - Limit TopN list
   
     <iframe id="iframe-pt5" title="ParameterTable-Limit-TopN" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzNGJjMGYtNTU0Ni00N2ZiLWI2MjItMjgzMTQ4YTlkOTc3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    
 
 - Cum.Total	<https://www.daxpatterns.com/cumulative-total/>
 
@@ -52,9 +55,11 @@ Acknowledgment of main sources:
   
     <iframe id="iframe-ct1" title="CumTotal-full-pattern" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiMjgzZDY2NDEtNTY3Mi00MjZlLWIxOWQtYmI4YWIzYmE0ZmFmIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
+    
   - Example of Cum.Total in Inventory Valuation
   
     <iframe id="iframe-ct2" title="CumTotal-Inventory-Valuation" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjM4YzUtNGZlZC00YmFiLTk0YjktYmRmOTkzODRmNmYzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    
 
 - Parent-Child	<https://www.daxpatterns.com/parent-child-hierarchies/>
 - Budget	<https://www.daxpatterns.com/budget-patterns/>
@@ -67,12 +72,4 @@ Acknowledgment of main sources:
 - Related Distinct Count	<https://www.daxpatterns.com/distinct-count/>
 - Statistical	<https://www.daxpatterns.com/statistical-patterns/>
 
-## Test of nested lists
-- level 1 para 1
 
-  - level 2 para 1
-
-    level 2 para 2
-    
-  level 1 para 2
-- level 1 2nd bullet
