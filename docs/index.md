@@ -23,14 +23,18 @@ Acknowledgment of main sources:
 - Survey	<https://www.daxpatterns.com/survey/>
 - Time Patterns	<https://www.daxpatterns.com/time-patterns/>
 - Parameter Table	<https://www.daxpatterns.com/parameter-table/>
+
   - Basic pattern
-
-
+    <iframe title="ParameterTable-basic-pattern" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiODUxMDE4ZDgtYTczZS00NDM5LWI3YzUtMGY2ZjlmZGQ2ZWM2IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    
+    
   - Single parameter
-
+    <iframe title="ParameterTable-single-parameter" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiNjI2MmFkNGMtODUxZC00OTMzLTlhNDUtYjMxNDI0ODI1ZmYyIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    
     
   - Multiple parameters
-
+    <iframe title="ParameterTable-multiple-parameters" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiYTAzNzk3NTAtZjY3Zi00OTMwLTg4NjYtYzdiOTgwN2ViYjczIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    
     
   - Cascading parameters
     (later)
