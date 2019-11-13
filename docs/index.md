@@ -28,8 +28,7 @@ Acknowledgment of main sources:
 
   - Basic pattern
   
-    <iframe id="iframe-pt1" title="ParameterTable-basic-pattern" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiODUxMDE4ZDgtYTczZS00NDM5LWI3YzUtMGY2ZjlmZGQ2ZWM2IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
-<p>iFrames are not supported by this browser nor in Github.</p></iframe>
+    <iframe id="iframe-pt1" title="ParameterTable-basic-pattern" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiODUxMDE4ZDgtYTczZS00NDM5LWI3YzUtMGY2ZjlmZGQ2ZWM2IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
   - Single parameter
   
