@@ -50,13 +50,11 @@ Acknowledgment of main sources:
 
   - Full pattern
   
-    <iframe id="iframe-ct1" title="CumTotal-full-pattern" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiMjgzZDY2NDEtNTY3Mi00MjZlLWIxOWQtYmI4YWIzYmE0ZmFmIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
-<strong>iFrames are not supported by this browser nor in Github.</strong></iframe>
+    <iframe id="iframe-ct1" title="CumTotal-full-pattern" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiMjgzZDY2NDEtNTY3Mi00MjZlLWIxOWQtYmI4YWIzYmE0ZmFmIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
   - Example of Cum.Total in Inventory Valuation
   
-    <iframe id="iframe-ct2" title="CumTotal-Inventory-Valuation" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjM4YzUtNGZlZC00YmFiLTk0YjktYmRmOTkzODRmNmYzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
-<strong>iFrames are not supported by this browser nor in Github.</strong></iframe>
+    <iframe id="iframe-ct2" title="CumTotal-Inventory-Valuation" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjM4YzUtNGZlZC00YmFiLTk0YjktYmRmOTkzODRmNmYzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
 
 - Parent-Child	<https://www.daxpatterns.com/parent-child-hierarchies/>
 - Budget	<https://www.daxpatterns.com/budget-patterns/>
