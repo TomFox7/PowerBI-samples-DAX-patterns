@@ -40,9 +40,15 @@ Acknowledgment of main sources:
     (later)
     
   - Limit TopN list
-    <iframe title="ParameterTable-multiple-parameters" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzNGJjMGYtNTU0Ni00N2ZiLWI2MjItMjgzMTQ4YTlkOTc3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    <iframe title="ParameterTable-Limit-TopN" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzNGJjMGYtNTU0Ni00N2ZiLWI2MjItMjgzMTQ4YTlkOTc3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
   
 - Cum.Total	<https://www.daxpatterns.com/cumulative-total/>
+  - Full pattern
+    <iframe title="ParameterTable-Limit-TopN" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiMjgzZDY2NDEtNTY3Mi00MjZlLWIxOWQtYmI4YWIzYmE0ZmFmIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    
+  - Example of Cum.Total in Inventory Valuation
+    <iframe title="ParameterTable-Limit-TopN" importance="low" width="800" height="506" src="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjM4YzUtNGZlZC00YmFiLTk0YjktYmRmOTkzODRmNmYzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"  allow="fullscreen"><p>iFrames are not supported by this browser.</p></iframe>
+    
 - Parent-Child	<https://www.daxpatterns.com/parent-child-hierarchies/>
 - Budget	<https://www.daxpatterns.com/budget-patterns/>
 - Different Granularities	<https://www.daxpatterns.com/handling-different-granularities/>
