@@ -32,13 +32,11 @@ Acknowledgment of main sources:
     
   - Single parameter
   
-    <iframe id="iframe-pt2" title="ParameterTable-single-parameter" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNjI2MmFkNGMtODUxZC00OTMzLTlhNDUtYjMxNDI0ODI1ZmYyIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
-<p>iFrames are not supported by this browser nor in Github.</p></iframe>
+    <iframe id="iframe-pt2" title="ParameterTable-single-parameter" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNjI2MmFkNGMtODUxZC00OTMzLTlhNDUtYjMxNDI0ODI1ZmYyIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
 
   - Multiple parameters
   
-    <iframe id="iframe-pt3" title="ParameterTable-multiple-parameters" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYTAzNzk3NTAtZjY3Zi00OTMwLTg4NjYtYzdiOTgwN2ViYjczIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
-<p>iFrames are not supported by this browser nor in Github.</p></iframe>
+    <iframe id="iframe-pt3" title="ParameterTable-multiple-parameters" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYTAzNzk3NTAtZjY3Zi00OTMwLTg4NjYtYzdiOTgwN2ViYjczIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
 
   - Cascading parameters
   
@@ -46,20 +44,19 @@ Acknowledgment of main sources:
     
   - Limit TopN list
   
-    <iframe id="iframe-pt5" title="ParameterTable-Limit-TopN" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzNGJjMGYtNTU0Ni00N2ZiLWI2MjItMjgzMTQ4YTlkOTc3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
-<p>iFrames are not supported by this browser nor in Github.</p></iframe>
+    <iframe id="iframe-pt5" title="ParameterTable-Limit-TopN" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzNGJjMGYtNTU0Ni00N2ZiLWI2MjItMjgzMTQ4YTlkOTc3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
 
 - Cum.Total	<https://www.daxpatterns.com/cumulative-total/>
 
   - Full pattern
   
     <iframe id="iframe-ct1" title="CumTotal-full-pattern" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiMjgzZDY2NDEtNTY3Mi00MjZlLWIxOWQtYmI4YWIzYmE0ZmFmIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
-<p>iFrames are not supported by this browser nor in Github.</p></iframe>
+<strong>iFrames are not supported by this browser nor in Github.</strong></iframe>
     
   - Example of Cum.Total in Inventory Valuation
   
     <iframe id="iframe-ct2" title="CumTotal-Inventory-Valuation" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjM4YzUtNGZlZC00YmFiLTk0YjktYmRmOTkzODRmNmYzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9">
-<p>iFrames are not supported by this browser nor in Github.</p></iframe>
+<strong>iFrames are not supported by this browser nor in Github.</strong></iframe>
 
 - Parent-Child	<https://www.daxpatterns.com/parent-child-hierarchies/>
 - Budget	<https://www.daxpatterns.com/budget-patterns/>
