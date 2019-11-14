@@ -65,7 +65,7 @@ Acknowledgment of main sources:
 
   - Basic pattern example
     
-    <iframe id="iframe-pc1" title="Parent-Child-basic" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYTk0ZTQ2ZTAtYzgwMi00MGJiLWJlNzEtNWU2NTE3ZjdlOTMzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9></iframe>
+    <iframe id="iframe-pc1" title="Parent-Child-basic" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYTk0ZTQ2ZTAtYzgwMi00MGJiLWJlNzEtNWU2NTE3ZjdlOTMzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
 
   
   - Complete example
