@@ -62,6 +62,16 @@ Acknowledgment of main sources:
     
 
 - Parent-Child	<https://www.daxpatterns.com/parent-child-hierarchies/>
+
+  - Basic pattern example
+    
+    <iframe id="iframe-pc1" title="Parent-Child-basic" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYTk0ZTQ2ZTAtYzgwMi00MGJiLWJlNzEtNWU2NTE3ZjdlOTMzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9></iframe>
+
+  
+  - Complete example
+    
+    <iframe id="iframe-pc2" title="Parent-Child-complete" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjM4YzUtNGZlZC00YmFiLTk0YjktYmRmOTkzODRmNmYzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+  
 - Budget	<https://www.daxpatterns.com/budget-patterns/>
 - Different Granularities	<https://www.daxpatterns.com/handling-different-granularities/>
 - ABC Classification static	<https://www.daxpatterns.com/abc-classification/>
