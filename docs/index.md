@@ -70,7 +70,7 @@ Acknowledgment of main sources:
   
   - Complete example
     
-    <iframe id="iframe-pc2" title="Parent-Child-complete" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjM4YzUtNGZlZC00YmFiLTk0YjktYmRmOTkzODRmNmYzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    <iframe id="iframe-pc2" title="Parent-Child-complete" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYWE0ZTg3ZjAtMDU1YS00YzlkLWJiOGMtNjI5NmI4YzZjZmRlIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
   
 - Budget	<https://www.daxpatterns.com/budget-patterns/>
 - Different Granularities	<https://www.daxpatterns.com/handling-different-granularities/>
