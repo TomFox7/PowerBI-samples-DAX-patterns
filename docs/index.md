@@ -1,18 +1,21 @@
-# PowerBI-samples-DAX-patterns
- 
-PBIX files and work-in-progress here: <https://github.com/TomFox7/PowerBI-samples-DAX-patterns/>
+## Why Data Models and DAX patterns?
 
-## Data Models and Use Cases of DAX patterns:
+A pattern is a general reusable solution to a commonly occurring problem.  Proven DAX patterns leverage immense experience across many industries and set a quality expectation.  Obviously real DAX skills are still essential to adapting these patterns to new applications.
 
 The ideal Data Models for Power BI and DAX patterns are closely related.  DAX formulae are the simplest to author and easiest to understand when the data has been shaped into the ideal data model.
 
-![Use cases of DAX patterns](https://tomfox7.github.io/PowerBI-samples-DAX-patterns/images/DAX_Patterns&Data_Models.png)
+I developed the live examples below in Power BI; the original examples were only available in Excel.
 
 Acknowledgment of main sources:
 - [Analyzing Data with Power BI and Power Pivot for Excel, 2017, book by Alberto Ferrari and Marco Russo](https://www.sqlbi.com/books/analyzing-data-with-microsoft-power-bi-and-power-pivot-for-excel/)
 - [Dax Patterns 2015, book by Alberto Ferrari and Marco Russo and website](https://www.daxpatterns.com/patterns/)
 
-## Descriptions of DAX patterns
+## Use Cases for DAX patterns
+
+![Use cases of DAX patterns](https://tomfox7.github.io/PowerBI-samples-DAX-patterns/images/DAX_Patterns&Data_Models.png)
+(The correlations with particular data models are work-in-progress.)
+
+## DAX patterns in Power BI (online)
   <style>
     iframe {
       border: 1px solid black;
@@ -80,6 +83,14 @@ Acknowledgment of main sources:
 - Segmentation dynamic	<https://www.daxpatterns.com/dynamic-segmentation/>
 - New & Returning Customers	<https://www.daxpatterns.com/new-and-returning-customers/>
 - Related Distinct Count	<https://www.daxpatterns.com/distinct-count/>
+
+  - Basic pattern example
+  
+  - Complete example
+  
+  - Slowly Changing Dimension
+  
+    
 - Statistical	<https://www.daxpatterns.com/statistical-patterns/>
 
 
