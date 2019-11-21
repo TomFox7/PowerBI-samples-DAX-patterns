@@ -74,6 +74,7 @@ Acknowledgment of main sources:
   - Complete example
     
     <iframe id="iframe-pc2" title="Parent-Child-complete" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYWE0ZTg3ZjAtMDU1YS00YzlkLWJiOGMtNjI5NmI4YzZjZmRlIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    
   
 - Bill of Materials
   
@@ -92,7 +93,9 @@ Acknowledgment of main sources:
 - Related Distinct Count	<https://www.daxpatterns.com/distinct-count/>
 
   - Basic pattern example
-  
+    <iframe id="iframe-rdc1" title="Related-Distinct-Count" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNTIyZjE3ZTgtYmE4Ni00YTEzLTlmZTEtMWZkYzdmMzU3MjIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+    
+    
   - Complete example
   
   - Slowly Changing Dimension
