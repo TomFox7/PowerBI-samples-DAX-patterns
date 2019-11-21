@@ -75,6 +75,13 @@ Acknowledgment of main sources:
     
     <iframe id="iframe-pc2" title="Parent-Child-complete" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYWE0ZTg3ZjAtMDU1YS00YzlkLWJiOGMtNjI5NmI4YzZjZmRlIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
   
+- Bill of Materials
+  
+  This is not yet available on the DAX patterns website, but solutions using M queries have been made by Imke Feldmann ([The BIccountant](https://www.thebiccountant.com/)):
+  - [Bill of Materials (BOM) solution in Excel and PowerBI](https://www.thebiccountant.com/2017/05/08/dynamic-bill-of-material-bom-solution-in-excel-and-powerbi/)
+  - [Parent-Child Hierarchies with multiple parents in Power BI with Power Query](https://www.thebiccountant.com/2019/10/03/parent-child-hierarchies-with-multiple-parents-in-power-bi-with-power-query/)
+  
+  
 - Budget	<https://www.daxpatterns.com/budget-patterns/>
 - Different Granularities	<https://www.daxpatterns.com/handling-different-granularities/>
 - ABC Classification static	<https://www.daxpatterns.com/abc-classification/>
