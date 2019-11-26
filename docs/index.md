@@ -9,6 +9,11 @@ I developed the live examples below in Power BI; the original examples were only
 Acknowledgment of main sources:
 - [Analyzing Data with Power BI and Power Pivot for Excel, 2017, book by Alberto Ferrari and Marco Russo](https://www.sqlbi.com/books/analyzing-data-with-microsoft-power-bi-and-power-pivot-for-excel/)
 - [Dax Patterns 2015, book by Alberto Ferrari and Marco Russo and website](https://www.daxpatterns.com/patterns/)
+- A Star Schema and a SWITCH for Drill-Down Income Statement Design by Matthew Mowrey (the links are below)
+- A Bill of Materials solution using Power Query (M) by Imke Feldmann (the links are below)
+
+More about patterns for data models:
+- [Data Model Patterns by Rob Ferguson](https://robferguson.org/blog/2015/04/22/data-model-patterns/)
 
 ## Use Cases for DAX patterns
 
@@ -84,6 +89,14 @@ Acknowledgment of main sources:
   
   
 - Budget	<https://www.daxpatterns.com/budget-patterns/>
+  
+- Star schema with a SWITCH()
+  
+  This is an elegant solution for financial reporting and also for comparing actual performance against budget or forecast.
+  See [A Star (Schema) and a SWITCH for Drill-Down Income Statement Design by Matthew Mowrey](https://powerpivotpro.com/2018/01/star-schema-switch-drill-income-statement-design/)
+   <iframe id="iframe-sss1" title="StarSchema+Switch" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYjA2YTg0NmYtOTUwNy00ZDQ4LWI0MzQtYTU2MTIxNmFiNWMwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+
+  
 - Different Granularities	<https://www.daxpatterns.com/handling-different-granularities/>
 - ABC Classification static	<https://www.daxpatterns.com/abc-classification/>
 - ABC Classification dynamic	<https://www.daxpatterns.com/abc-classification-dynamic/>
