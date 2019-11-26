@@ -29,10 +29,10 @@ More about patterns for data models:
     }
   </style>
   
-- Basket Analysis	<https://www.daxpatterns.com/basket-analysis/>
-- Survey	<https://www.daxpatterns.com/survey/>
-- Time Patterns	<https://www.daxpatterns.com/time-patterns/>
-- Parameter Table	<https://www.daxpatterns.com/parameter-table/>
+- Basket Analysis	[explained on DAX patterns site](https://www.daxpatterns.com/basket-analysis/)
+- Survey	[explained on DAX patterns site](https://www.daxpatterns.com/survey/)
+- Time Patterns	[explained on DAX patterns site](https://www.daxpatterns.com/time-patterns/)
+- Parameter Table	[explained on DAX patterns site](https://www.daxpatterns.com/parameter-table/)
 
   - Basic pattern
   
@@ -47,7 +47,10 @@ More about patterns for data models:
   - Multiple parameters
   
     <iframe id="iframe-pt3" title="ParameterTable-multiple-parameters" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYTAzNzk3NTAtZjY3Zi00OTMwLTg4NjYtYzdiOTgwN2ViYjczIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
-
+    
+    For another example, see [Using DAX Magic For Variable Forecasting](https://powerpivotpro.com/2018/03/using-dax-magic-for-variable-forecasting/) by Matthew Mowrey.
+    
+    
   - Cascading parameters
   
     (later)
@@ -57,7 +60,7 @@ More about patterns for data models:
     <iframe id="iframe-pt5" title="ParameterTable-Limit-TopN" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzNGJjMGYtNTU0Ni00N2ZiLWI2MjItMjgzMTQ4YTlkOTc3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
-- Cum.Total	<https://www.daxpatterns.com/cumulative-total/>
+- Cum.Total	[explained on DAX patterns site](https://www.daxpatterns.com/cumulative-total/)
 
   - Full pattern
   
@@ -69,7 +72,7 @@ More about patterns for data models:
     <iframe id="iframe-ct2" title="CumTotal-Inventory-Valuation" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiOTRjZjM4YzUtNGZlZC00YmFiLTk0YjktYmRmOTkzODRmNmYzIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
 
-- Parent-Child	<https://www.daxpatterns.com/parent-child-hierarchies/>
+- Parent-Child	[explained on DAX patterns site](https://www.daxpatterns.com/parent-child-hierarchies/)
 
   - Basic pattern example
     
@@ -88,22 +91,21 @@ More about patterns for data models:
   - [Parent-Child Hierarchies with multiple parents in Power BI with Power Query](https://www.thebiccountant.com/2019/10/03/parent-child-hierarchies-with-multiple-parents-in-power-bi-with-power-query/)
   
   
-- Budget	<https://www.daxpatterns.com/budget-patterns/>
+- Budget	[explained on DAX patterns site](https://www.daxpatterns.com/budget-patterns/)
   
-- Star schema with a SWITCH()
+- Star schema with a SWITCH() of measures [explained by Matthew Mowrey on PowerPivotPro site](https://powerpivotpro.com/2018/01/star-schema-switch-drill-income-statement-design/)
   
-  This is an elegant solution for financial reporting and also for comparing actual performance against budget or forecast.
-  See [A Star (Schema) and a SWITCH for Drill-Down Income Statement Design by Matthew Mowrey](https://powerpivotpro.com/2018/01/star-schema-switch-drill-income-statement-design/)
-   <iframe id="iframe-sss1" title="StarSchema+Switch" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYjA2YTg0NmYtOTUwNy00ZDQ4LWI0MzQtYTU2MTIxNmFiNWMwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
+  This is an elegant solution for financial reporting and also for comparing actual performance against a budget or forecast.
+  <iframe id="iframe-sss1" title="StarSchema+Switch" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiYjA2YTg0NmYtOTUwNy00ZDQ4LWI0MzQtYTU2MTIxNmFiNWMwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
 
   
-- Different Granularities	<https://www.daxpatterns.com/handling-different-granularities/>
-- ABC Classification static	<https://www.daxpatterns.com/abc-classification/>
-- ABC Classification dynamic	<https://www.daxpatterns.com/abc-classification-dynamic/>
-- Segmentation static	<https://www.daxpatterns.com/static-segmentation/>
-- Segmentation dynamic	<https://www.daxpatterns.com/dynamic-segmentation/>
-- New & Returning Customers	<https://www.daxpatterns.com/new-and-returning-customers/>
-- Related Distinct Count	<https://www.daxpatterns.com/distinct-count/>
+- Different Granularities	[explained on DAX patterns site](https://www.daxpatterns.com/handling-different-granularities/)
+- ABC Classification static	[explained on DAX patterns site](https://www.daxpatterns.com/abc-classification/)
+- ABC Classification dynamic	[explained on DAX patterns site](https://www.daxpatterns.com/abc-classification-dynamic/)
+- Segmentation static	[explained on DAX patterns site](https://www.daxpatterns.com/static-segmentation/)
+- Segmentation dynamic	[explained on DAX patterns site](https://www.daxpatterns.com/dynamic-segmentation/)
+- New & Returning Customers	[explained on DAX patterns site](https://www.daxpatterns.com/new-and-returning-customers/)
+- Related Distinct Count	[explained on DAX patterns site](https://www.daxpatterns.com/distinct-count/)
 
   - Basic pattern example
     <iframe id="iframe-rdc1" title="Related-Distinct-Count" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNTIyZjE3ZTgtYmE4Ni00YTEzLTlmZTEtMWZkYzdmMzU3MjIwIiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
@@ -114,7 +116,7 @@ More about patterns for data models:
   - Slowly Changing Dimension
   
     
-- Statistical	<https://www.daxpatterns.com/statistical-patterns/>
+- Statistical	[explained on DAX patterns site](https://www.daxpatterns.com/statistical-patterns/)
 
   - Average/Mean
     DAX functions: AVERAGE, AVERAGEA, AVERAGEX
