@@ -59,6 +59,7 @@ More about patterns for data models:
   
     <iframe id="iframe-pt5" title="ParameterTable-Limit-TopN" importance="low" src="https://app.powerbi.com/view?r=eyJrIjoiNmYzNGJjMGYtNTU0Ni00N2ZiLWI2MjItMjgzMTQ4YTlkOTc3IiwidCI6Ijg1OTBlYTFlLTdiMjctNDJlNS04MTdmLTZjOGYzNzE5ZjMxNCJ9"></iframe>
     
+    See also [ 2019-05-24 Power BI – Dynamic TopN + Others with Drill-Down](https://blog.gbrueckl.at/2019/05/power-bi-dynamic-topn-others-with-drill-down/) by Gerhard Brueckl.
 
 - Cum.Total	[explained on DAX patterns site](https://www.daxpatterns.com/cumulative-total/)
 
