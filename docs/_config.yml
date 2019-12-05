@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-title: DAX patterns illustrated in Power BI
-description: by Tom Fox, originated by SQLBI see https://www.daxpatterns.com/patterns/
+title: DAX patterns and data models illustrated in Power BI
+description: adapted by Tom Fox, from SQLBI and others
+google_analytics: UA-47157029-4 
